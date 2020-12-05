@@ -1,0 +1,4 @@
+EMOJI_SELL_ITEMS	Sell: |Eemoji/key_ctrl|e + |Eemoji/key_rclick|e
+SELL_PRICE_INFO	[Selling Price]
+SELL_PRICE_INFO_PCS	Piece: %s
+SELL_PRICE_INFO_ALL	All: %s
